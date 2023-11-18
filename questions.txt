@@ -1,0 +1,433 @@
+Question 1: What is the capital of France?
+a) London
+b) Paris
+c) Rome
+d) Berlin
+Answer: b
+
+Question 2: Which planet is known as the Red Planet?
+a) Mars
+b) Jupiter
+c) Saturn
+d) Earth
+Answer: a
+
+Question 3: Which planet is known as the Blue Planet?
+a) Mars
+b) Jupiter
+c) Saturn
+d) Earth
+Answer: d
+
+Question 4: Which planet is known as the Brown Planet?
+a) Mars
+b) Jupiter
+c) Saturn
+d) Earth
+Answer: c
+
+Question 5: Which planet is known as the White Planet?
+a) Mars
+b) Jupiter
+c) Saturn
+d) Earth
+Answer: b
+
+Question 6: What is the chemical symbol for gold?
+a) Go
+b) Au
+c) Ag
+d) Gd
+Answer: b
+
+Question 7: Who painted the Mona Lisa?
+a) Vincent van Gogh
+b) Leonardo da Vinci
+c) Pablo Picasso
+d) Michelangelo
+Answer: b
+
+Question 8: What is the largest mammal in the world?
+a) Elephant
+b) Blue whale
+c) Giraffe
+d) Hippopotamus
+Answer: b
+
+Question 9: Which country is known as the Land of the Rising Sun?
+a) China
+b) Japan
+c) South Korea
+d) Thailand
+Answer: b
+
+Question 10: What is the capital of Australia?
+a) Sydney
+b) Melbourne
+c) Canberra
+d) Brisbane
+Answer: c
+
+Question 11: What is the largest planet in our solar system?
+a) Mars
+b) Venus
+c) Jupiter
+d) Saturn
+Answer: c
+
+Question 12: Which gas is most abundant in Earth's atmosphere?
+a) Nitrogen
+b) Oxygen
+c) Carbon dioxide
+d) Argon
+Answer: a
+
+Question 13: Who wrote the play "Romeo and Juliet"?
+a) William Shakespeare
+b) Charles Dickens
+c) Jane Austen
+d) F. Scott Fitzgerald
+Answer: a
+
+Question 14: In which year did World War I begin?
+a)1777
+b)1854
+c)1932
+d)1921
+Answer: c
+
+Question 15: What is the currency of Japan?
+a) Yen
+b) Won
+c) Euro
+d) Dollar
+Answer: a
+
+Question 16: What is the largest desert in the world?
+a) Sahara Desert
+b) Gobi Desert
+c) Arabian Desert
+d) Kalahari Desert
+Answer: a
+
+Question 17: Who painted the famous artwork "The Starry Night"?
+a) Claude Monet
+b) Vincent van Gogh
+c) Leonardo da Vinci
+d) Pablo Picasso
+Answer: b
+
+Question 18: What is the chemical symbol for iron?
+a) Ir
+b) Fe
+c) Au
+d) Sn
+Answer: b
+
+Question 19: Which planet is known as the "Morning Star" or "Evening Star"?
+a) Venus
+b) Mars
+c) Mercury
+d) Jupiter
+Answer: a
+
+Question 20: Who developed the theory of general relativity?
+a) Isaac Newton
+b) Albert Einstein
+c) Stephen Hawking
+d) Galileo Galilei
+Answer: b
+
+Question 21: Which country is known as the "Land of the Midnight Sun"?
+a) Sweden
+b) Russia
+c) Norway
+d) Finland
+Answer: c
+
+Question 22: Who wrote the novel "1984"?
+a) Aldous Huxley
+b) George Orwell
+c) Ernest Hemingway
+d) F. Scott Fitzgerald
+Answer: b
+
+Question 23: What is the largest organ in the human body?
+a) Liver
+b) Skin
+c) Heart
+d) Brain
+Answer: b
+
+Question 24: What is the chemical symbol for hydrogen?
+a) He
+b) Hg
+c) H
+d) Hy
+Answer: c
+
+Question 25: Who painted the famous artwork "The Scream"?
+a) Pablo Picasso
+b) Vincent van Gogh
+c) Edvard Munch
+d) Claude Monet
+Answer: c
+
+Question 26: In which city would you find the Eiffel Tower?
+a) London
+b) Paris
+c) Rome
+d) Berlin
+Answer: b
+
+Question 27: What is the smallest prime number?
+a)0
+b)1
+c)2
+d)3
+Answer: b 
+
+Question 28: Who invented the telephone?
+a) Alexander Graham Bell
+b) Thomas Edison
+c) Nikola Tesla
+d) Guglielmo Marconi
+Answer: a
+
+Question 29: What is the currency of Brazil?
+a) Peso
+b) Real
+c) Dollar
+d) Euro
+Answer: b
+
+Question 30: Which continent is the least populated?
+a) Europe
+b) Africa
+c) Antarctica
+d) Australia
+Answer: c
+
+Question 31: What is the largest species of tiger?
+a) Bengal tiger
+b) Siberian tiger
+c) Malayan tiger
+d) South China tiger
+Answer: b
+
+Question 32: Who composed the famous musical piece "Fur Elise"?
+a) Wolfgang Amadeus Mozart
+b) Ludwig van Beethoven
+c) Johann Sebastian Bach
+d) Franz Schubert
+Answer: b
+
+Question 33: Which gas do plants primarily use for photosynthesis?
+a) Oxygen
+b) Carbon dioxide
+c) Nitrogen
+d) Hydrogen
+Answer: b
+
+Question 34: What is the study of fossils called?
+a) Archeology
+b) Paleontology
+c) Anthropology
+d) Geology
+Answer: b
+
+Question 35: Which river is the longest in the world?
+a) Nile River
+b) Amazon River
+c) Yangtze River
+d) Mississippi River
+Answer: a
+
+Question 36: Who wrote the play "Hamlet"?
+a) William Shakespeare
+b) Charles Dickens
+c) F. Scott Fitzgerald
+d) Mark Twain
+Answer: a
+
+Question 37: What is the largest species of bear?
+a) Black bear
+b) Polar bear
+c) Brown bear
+d) Grizzly bear
+Answer: b
+
+Question 38: What is the chemical symbol for silver?
+a) Ag
+b) Si
+c) S
+d) Sl
+Answer: a
+
+Question 39: Who discovered penicillin?
+a) Alexander Fleming
+b) Louis Pasteur
+c) Marie Curie
+d) Jonas Salk
+Answer: a
+
+Question 40: Which planet is known as the "Red Planet"?
+a) Venus
+b) Mars
+c) Jupiter
+d) Mercury
+Answer: b
+
+Question 41: Which country is known as the "Land of the Thunder Dragon"?
+a) Bhutan
+b) Nepal
+c) Tibet
+d) Myanmar
+Answer: a
+
+Question 42: Who is known as the "Father of Computer Science"?
+a) Alan Turing
+b) Charles Babbage
+c) Tim Berners-Lee
+d) Steve Jobs
+Answer: a
+
+Question 43: What is the largest artery in the human body?
+a) Aorta
+b) Pulmonary artery
+c) Carotid artery
+d) Femoral artery
+Answer: a
+
+Question 44: What is the chemical symbol for sodium?
+a) So
+b) Sd
+c) Na
+d) N
+Answer: c
+
+Question 45: Who wrote the novel "To Kill a Mockingbird"?
+a) Harper Lee
+b) John Steinbeck
+c) F. Scott Fitzgerald
+d) J.D. Salinger
+Answer: a
+
+Question 46: What is the capital of Spain?
+a) Madrid
+b) Barcelona
+c) Seville
+d) Valencia
+Answer: a
+
+Question 47: What is the currency of South Africa?
+a) Rand
+b) Euro
+c) Peso
+d) Dollar
+Answer: a
+
+Question 48: Who discovered the theory of evolution by natural selection?
+a) Charles Darwin
+b) Gregor Mendel
+c) Alfred Russel Wallace
+d) Thomas Edison
+Answer: a
+
+Question 49: Which gas makes up the majority of Earth's atmosphere?
+a) Nitrogen
+b) Oxygen
+c) Carbon dioxide
+d) Hydrogen
+Answer: a
+
+Question 50: Which continent is known as the "Dark Continent"?
+a) Africa
+b) Asia
+c) Europe
+d) Antarctica
+Answer: a
+
+Question 51: What is the chemical symbol for potassium?
+a) K
+b) P
+c) Po
+d) Pt
+Answer: a
+
+Question 52: Who painted the famous artwork "The Last Supper"?
+a) Michelangelo
+b) Leonardo da Vinci
+c) Vincent van Gogh
+d) Pablo Picasso
+Answer: b
+
+Question 53: What is the largest bone in the human body?
+a) Femur
+b) Tibia
+c) Humerus
+d) Fibula
+Answer: a
+
+Question 54: What is the capital of Canada?
+a) Toronto
+b) Ottawa
+c) Vancouver
+d) Montreal
+Answer: b
+
+Question 55: Who wrote the play "Macbeth"?
+a) William Shakespeare
+b) Jane Austen
+c) Charles Dickens
+d) Mark Twain
+Answer: a
+
+Question 56: What is the largest organ in the human body?
+a) Liver
+b) Skin
+c) Heart
+d) Brain
+Answer: b
+
+Question 57: What is the chemical symbol for helium?
+a) He
+b) H
+c) Ha
+d) Hy
+Answer: a
+
+Question 58: Who composed the famous opera "The Magic Flute"?
+a) Ludwig van Beethoven
+b) Wolfgang Amadeus Mozart
+c) Giuseppe Verdi
+d) Richard Wagner
+Answer: b
+
+Question 59: What is the currency of Russia?
+a) Ruble
+b) Euro
+c) Pound
+d) Lira
+Answer: a
+
+Question 60: Which continent is home to the Sahara Desert?
+a) Africa
+b) Asia
+c) North America
+d) Europe
+Answer: a
+
+Question 61: What is the chemical symbol for calcium?
+a) Ca
+b) Co
+c) Cl
+d) Ce
+Answer: a
+
+Question 62: Who is the author of the Harry Potter book series?
+a) J.R.R. Tolkien
+b) J.K. Rowling
+c) Stephen King
+d) George R.R. Martin
+Answer: b
